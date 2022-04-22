@@ -6,6 +6,7 @@ import hashlib
 import secrets
 import bluetooth
 
+parameters_process = ["us","sy","ni","id","wa")
 
 def get_zone_id(zone_id):
     return
