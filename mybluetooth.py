@@ -6,6 +6,11 @@ import hashlib
 import secrets
 import bluetooth
 
+
+def get_zone_id(zone_id):
+    return
+    
+    
 # part 1 
 devices_discovery = bluetooth.DeviceDiscoverer()
 print()
